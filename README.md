@@ -9,26 +9,25 @@
   <img align="left" alt="SugiCode Linkdein" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/sugicode">
-  <img align="left" alt="Ohidur Rahman Bappy's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="SugiCode Bappy's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://instagram.com/sugicode">
-  <img align="left" alt="Ohidur Rahman Bappy's Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="SugiCode Bappy's Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <br />
 
 ### Glad to see you here! 🤩 &nbsp;
 
-I am a passionate self-taught programmer from Bangladesh.
-- 🔭 I’m currently working on my project [To Mail](https://github.com/ohidurbappy/ToMail)
-- 🌱 I’m currently learning Vue JS
-- 👯 I’m looking to collaborate on [Awesome Cheatsheet](https://github.com/ohidurbappy/awesome-cheatsheet)
-- 💬 Ask me about anything [here](https://github.com/ohidurbappy/ohidurbappy/issues)
-- 📫 How to reach me: me@ohidur.com <br>
-- 🥅 2020 Goals: Contribute more to Open Source projects
+I am a passionate self-taught programmer from Indonesia.
+- 🔭 I’m currently working on my project [To Mail]
+- 🌱 I’m currently learning Web Developer
+- 👯 I’m 21 Years Old
+- 💬 Ask me about anything [here](https://instagram.com/SugiCode)
+- 📫 How to reach me: sugicode@outlook.com <br>
+- 🥅 2020 Goals: Contribute more to Open Source projects, Amin
 
 **Languages and Tools:** &nbsp;
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></code>
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -45,33 +44,16 @@ I am a passionate self-taught programmer from Bangladesh.
 <br />
 
 
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [How to use Google Translate API with python](https://medium.com/@ohidurbappy/how-to-use-google-translate-api-with-python-9e7f1a6f410e?source=rss-a056b351815b------2)
-- [Fetch Google News with python and Google News API](https://medium.com/@ohidurbappy/fetch-google-news-with-python-and-google-news-api-986e8edd043d?source=rss-a056b351815b------2)
-- [How to count total video views of a playlist using python and YouTube data API](https://medium.com/@ohidurbappy/how-to-count-total-video-views-of-a-playlist-using-python-and-youtube-data-api-8d44cab683b0?source=rss-a056b351815b------2)
-- [15 useful htaccess tips and tricks](https://medium.com/@ohidurbappy/15-useful-htaccess-tips-and-tricks-dc7c13c70f29?source=rss-a056b351815b------2)
-<!-- BLOG-POST-LIST:END -->
+## I ❤️ Code
 
-
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [What is windows sysinternals software suite and how to access it?](https://www.youtube.com/watch?v=c90j2_8Z-bk)
-- [Deploy python flask app on #Cpanel shared hosting](https://www.youtube.com/watch?v=260eDcsUheE)
-- [Next Level GitHub Profile README (2020) - Create An Amazing Profile ReadMe With #GitHub Actions](https://www.youtube.com/watch?v=ZnJjJAxaq5Q)
-- [[Tutorial] How to create and destroy DigitalOcean Droplet - Cloud Server - DevOps Guide](https://www.youtube.com/watch?v=YxqQ0oF46bo)
-- [How to remove background from image in one click - remove.bg](https://www.youtube.com/watch?v=8Inl23cfjsY)
-<!-- YOUTUBE:END -->
-
-
-## I ❤️ Memes
-
-<img alt="Random Memes" height="250px" src="https://www.ohidur.com/memes/random.jpg?_n=4">
+<img alt="Random Memes" height="250px" src="https://img.favpng.com/4/14/21/programming-language-python-computer-programming-source-code-png-favpng-DWrruQadHLv1Pc8kSG58aEcjT.jpg">
 
 Bad decisions can be changed at any time, but regret will stay with you for a lifetime.
 A month ago you said "soon." Last week you said "later.” 
 Yesterday you said "tomorrow."
 Let's do it now!
+
+Programmer's is the only job I can think of where I get to be both an engineer and an artist.
 
 ⚡ Fun fact <br>
 “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler
