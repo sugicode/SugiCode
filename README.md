@@ -1,4 +1,5 @@
-### Hi there, I'm [SugiCode!](https://www.instagram.com/sugicode) 👋https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966
+### Hi there, I'm [SugiCode!](https://www.instagram.com/sugicode) 👋
+<img alt="Random Memes" height="150px" src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"> 
 
 <img alt="Random Memes" height="250px" src="https://i.ibb.co/MC3yCW4/readme-header.png">
 <br />
