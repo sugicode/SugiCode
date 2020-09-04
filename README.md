@@ -12,6 +12,9 @@
 <a href="https://instagram.com/sugicode">
   <img align="left" alt="Ohidur Rahman Bappy's Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://instagram.com/sugicode">
+  <img align="left" alt="Ohidur Rahman Bappy's Instagram" width="16px" src="https://i.ibb.co/MC3yCW4/readme-header.png" />
+</a>
 
 <br />
 
