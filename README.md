@@ -46,7 +46,7 @@ I am a passionate self-taught programmer from Indonesia.
 
 ## I ❤️ Code
 
-<img alt="Random Memes" height="250px" src="https://img.favpng.com/4/14/21/programming-language-python-computer-programming-source-code-png-favpng-DWrruQadHLv1Pc8kSG58aEcjT.jpg">
+<img alt="Random Memes" height="250px" src="https://pbs.twimg.com/profile_banners/571385864/1587393318/1500x500">
 
 Bad decisions can be changed at any time, but regret will stay with you for a lifetime.
 A month ago you said "soon." Last week you said "later.” 
