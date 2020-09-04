@@ -1,5 +1,7 @@
 ### Hi there, I'm [SugiCode!](https://www.instagram.com/sugicode) 👋
 
+<img alt="Random Memes" height="250px" src="https://i.ibb.co/MC3yCW4/readme-header.png">
+<br />
 <a href="https://twitter.com/SugiCode">
   <img align="left" alt="SugiCode Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -12,8 +14,6 @@
 <a href="https://instagram.com/sugicode">
   <img align="left" alt="Ohidur Rahman Bappy's Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
-<img alt="Random Memes" height="250px" src="https://i.ibb.co/MC3yCW4/readme-header.png">
 
 <br />
 
